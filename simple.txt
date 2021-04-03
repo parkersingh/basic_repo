@@ -1,0 +1,4 @@
+git init for basic_repo
+git remote add origin https:/
+touch index.html styles.css
+git add . > git commit -m "modified index.html and styles.css" > git push origin master
